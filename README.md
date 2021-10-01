@@ -21,4 +21,4 @@ Skills Involved:
 
 Refer to [PipelinedProcessor.pdf](https://github.com/akshithsriram/Pipelined-Processor/blob/main/PipelinedProcessor.pdf) for full details.
 
-This project was created as a part of the course CS2610: Computer Organization and Architecture Lab, taught by [Prof. Madhu Mutyam](http://www.cse.iitm.ac.in/~madhu/) of IIT Madras.
+This project was created as a part of the course CS2610: Computer Organization and Architecture Lab, taught by [Prof. Madhu Mutyam](http://www.cse.iitm.ac.in/~madhu/) during Jan-May semester of 2021 at IIT Madras.
