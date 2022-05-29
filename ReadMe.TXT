@@ -5,4 +5,4 @@ Output Files generated: "DCacheOUT.txt", "Output.txt"
 The output file to be produced was named "DCacheOUT.txt" instead of "DCache.txt" 
 to avoid replacement of the original input file.
 
-Major parts of the code have been explained in comments.
+Major parts of the code are explained in comments.
